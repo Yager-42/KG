@@ -1,1 +1,2 @@
-比赛地址https://www.datafountain.cn/competitions/584/submits?view=submit-records
+比赛地址
+https://www.datafountain.cn/competitions/584/
